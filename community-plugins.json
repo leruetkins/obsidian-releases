@@ -28929,5 +28929,12 @@
     "author": "gs-ax",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Convert local documents (Word, PDF, PowerPoint, HWP, Excel) to Markdown and save into your Obsidian vault.",
     "repo": "gs-ax/doc-weaver"
+  },
+  {
+  "id": "new-note-np",
+  "name": "New Note NP",
+  "author": "leruetkins",
+  "description": "Adds a Create new note button back to the left ribbon.",
+  "repo": "leruetkins/new-note-np"
   }
 ]
